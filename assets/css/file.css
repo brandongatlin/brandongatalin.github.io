@@ -1,0 +1,269 @@
+* {}
+
+p {
+    font-size: 14px;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#headercontent {
+    width: 960px;
+    height: 100px;
+    margin: auto;
+}
+
+#headertext {
+    width: 300px;
+    height: 80px;
+    margin: 18px;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    background-color: #63a8a4;
+    float: left;
+}
+
+#nav {
+    width: 270px;
+    height: 50px;
+    margin-top: 25px;
+    font-size: 15px;
+    background-color: white;
+    float: right;
+}
+
+#navlist {
+    list-style-type: none;
+}
+
+.navlink {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#about {
+    width: 33%;
+}
+
+#portfolio {
+    width: 33%;
+    border-left: .5px;
+    border-right: .5px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: #666666;
+}
+
+#contact {
+    width: 33%;
+}
+
+#containerwrapper {
+    width: 100%;
+    height: 600px;
+    background-image: url("../images/sandpaper/sandpaper.png");
+    border-bottom: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: #63a8a4;
+}
+
+#containerwrapper2 {
+    height: 800px;
+    width: 100%;
+    background-image: url("../images/sandpaper/sandpaper.png");
+}
+
+#maincontent {
+    margin: auto;
+    width: 960px;
+    height: 600px;
+    background-image: url("../images/sandpaper/sandpaper.png");
+}
+
+#aboutme {
+    margin-top: 100px;
+    width: 650px;
+    height: 400px;
+    background-color: white;
+    float: left;
+}
+
+#bio {
+    height: 400px;
+    width: 600px;
+    padding: 25px;
+}
+
+#biotexttitle {
+    clear: left;
+}
+
+h2 {
+    color: #63a8a4;
+    font-size: 30px;
+}
+
+#biotext {
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+    color: #666666;
+}
+
+#profile {
+    height: 137px;
+    width: 95px;
+    float: left;
+    padding-right: 25px;
+}
+
+#connect {
+    margin-top: 100px;
+    width: 270px;
+    height: 200px;
+    font-size: 40px;
+    background-color: white;
+    text-align: center;
+    float: right;
+}
+
+#buttons {
+    margin: auto;
+    margin-top: 30px;
+}
+
+#github {
+    float: left;
+    width: 33%;
+    color: black;
+}
+
+#linked {
+    float: left;
+    width: 33%;
+    color: blue;
+}
+
+#stack {
+    float: left;
+    width: 33%;
+    color: orange;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+}
+
+#footertext {
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+    height: 40px;
+    color: #ffffff;
+    background-color: none;
+    float: left;
+}
+
+.ruler {
+    color: #7B7B7C;
+    height: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contactcontainer {
+    width: 960px;
+    height: 800px;
+    margin: auto;
+}
+
+#formbox {
+    width: 650px;
+    height: 500px;
+    margin-top: 100px;
+    float: left;
+    background-color: #ffffff;
+}
+
+#formtitle {
+    padding: 25px;
+}
+
+#form {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.fields {
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+#messagefield {
+    height: 200px;
+}
+
+#submit {}
+
+#portfoliobox {
+    width: 650px;
+    height: 600px;
+    margin-top: 100px;
+    padding: 10px;
+    background-color: yellow;
+    float: left;
+    background-color: #ffffff;
+}
+
+.picbox {
+    border-style: solid;
+    border: 1px, black;
+    background-color: #ffffff;
+    height: 175px;
+    width: 250px;
+    padding: 5px;
+}
+
+#boxholder {
+    width: 650px;
+    height: 350px;
+}
+
+.picrow {
+    height: 200px;
+}
+
+#picbox1 {
+    float: left;
+}
+
+#picbox3 {
+    float: left;
+}
+
+#picbox2 {
+    float: right;
+}
+
+#picbox4 {
+    float: right;
+}
+
+.pix {
+    height: 165px;
+    width: 240px;
+    padding: 5px;
+}
